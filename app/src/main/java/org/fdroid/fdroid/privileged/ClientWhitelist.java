@@ -45,7 +45,10 @@ public class ClientWhitelist {
             new Pair<>("org.fdroid.fdroid", "0CE36D407B9F191E986361FB1A8EFEF7E876964F0E6E2DB744FE26B18548FA1F"), // angler releasekey
             new Pair<>("org.fdroid.fdroid", "5AB503A189E97FFAE1D3AA07D008D91AAF67C5E0BBCE00E7A9C94945A73F970D"), // angler platform
             new Pair<>("org.fdroid.fdroid", "A247DBE06D934374CFDDF489567161081D4812C70D72586EB7D7157AFD4B3AD9"), // marlin / pixel 1 releasekey
-            new Pair<>("org.fdroid.fdroid", "6B26571B364442D3E4CBF5341EBCC4878F97561D1ECF3398B1EF264CB084E000") // marlin / pixel 1 platform
+            new Pair<>("org.fdroid.fdroid", "6B26571B364442D3E4CBF5341EBCC4878F97561D1ECF3398B1EF264CB084E000"), // marlin / pixel 1 platform
+            new Pair<>("org.fdroid.fdroid", "E4667B523B782A6715D0ADA51A545FDBEC53FF083412FA06DD60A7764B994D1B"), // taimen releasekey
+            new Pair<>("org.fdroid.fdroid", "C1C4746DC08016F274F747C229A7D9878E55A7BC35DDB99DA681E9EDF602AF25") // walleye releasekey
+
     ));
 
 }
